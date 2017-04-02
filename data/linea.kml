@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml><Document>
+	<name>KmlFile</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>linea</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				44.02899794541131,56.10985910251119,0 41.68113743030156,56.42999880636511,0 39.7239350476822,56.66694232017257,0 37.41479702753333,56.9354562498978,0 36.25728788276292,57.05555159756312,0 34.70768143851105,57.19853722584976,0 33.29301317715639,57.20106979820635,0 31.33076340041801,57.2433415832633,0 28.42259975830083,57.30704441967735,0 26.53813461300102,57.41307251954016,0 25.18408273814028,57.35761363872327,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

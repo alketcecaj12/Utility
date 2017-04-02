@@ -1,0 +1,1883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+<Style id="ff0000ff">
+<LineStyle>
+<color>ff0000ff</color>
+<width>2</width>
+</LineStyle>
+</Style>
+<Style id="ff00ff00">
+<LineStyle>
+<color>ff00ff00</color>
+<width>2</width>
+</LineStyle>
+</Style>
+<Style id="ffff0000">
+<LineStyle>
+<color>ffff0000</color>
+<width>2</width>
+</LineStyle>
+</Style>
+<Style id="ffffffff">
+<LineStyle>
+<color>ffffffff</color>
+<width>2</width>
+</LineStyle>
+</Style>
+<Style id="ff000000">
+<LineStyle>
+<color>ff000000</color>
+<width>2</width>
+</LineStyle>
+</Style>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.21323,7.619619,0 45.07411,7.646847,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07411,7.646847,0 45.059166,7.655667,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.059166,7.655667,0 45.059166,7.655667,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.059166,7.655667,0 45.059166,7.655667,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.059166,7.655667,0 45.063404,7.689016,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.063404,7.689016,0 45.07292,7.68161,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07292,7.68161,0 45.05792,7.710842,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.05792,7.710842,0 45.064037,7.702825,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.064037,7.702825,0 45.057335,7.648833,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.057335,7.648833,0 45.064754,7.696899,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.064754,7.696899,0 45.070625,7.684335,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.070625,7.684335,0 45.07226,7.68632,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07226,7.68632,0 45.07187,7.68573,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07187,7.68573,0 45.067173,7.681953,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.067173,7.681953,0 45.068974,7.69295,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068974,7.69295,0 45.068974,7.69295,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068974,7.69295,0 45.068974,7.69295,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068974,7.69295,0 45.075058,7.684818,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.075058,7.684818,0 45.068974,7.69295,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068974,7.69295,0 45.0712,7.68558,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.0712,7.68558,0 45.068974,7.69295,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068974,7.69295,0 45.068974,7.69295,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068974,7.69295,0 45.064087,7.696856,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.064087,7.696856,0 45.06983,7.51,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06983,7.51,0 45.06263,7.698787,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06263,7.698787,0 45.05255,7.714399,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.05255,7.714399,0 44.978535,7.961997,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+44.978535,7.961997,0 44.978535,7.961997,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+44.978535,7.961997,0 45.067833,7.682667,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.067833,7.682667,0 45.067665,7.682667,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.067665,7.682667,0 45.068,7.684333,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068,7.684333,0 45.076332,7.632333,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.076332,7.632333,0 45.065,7.6945,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.065,7.6945,0 45.068,7.6845,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068,7.6845,0 45.065166,7.6945,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.065166,7.6945,0 45.066833,7.6835,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.066833,7.6835,0 45.065,7.694833,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.065,7.694833,0 45.069168,7.692833,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.069168,7.692833,0 45.066166,7.693167,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.066166,7.693167,0 45.086166,7.677333,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.086166,7.677333,0 45.032333,7.655167,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.032333,7.655167,0 45.032166,7.655333,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.032166,7.655333,0 45.032166,7.655333,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.032166,7.655333,0 45.048405,7.685301,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.048405,7.685301,0 45.068966,7.71767,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068966,7.71767,0 45.067047,7.681948,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.067047,7.681948,0 45.070683,7.681873,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.070683,7.681873,0 45.06627,7.679041,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06627,7.679041,0 45.073467,7.685317,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.073467,7.685317,0 45.066963,7.682227,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.066963,7.682227,0 45.072063,7.68543,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.072063,7.68543,0 45.072815,7.685912,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.072815,7.685912,0 45.072666,7.685837,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.072666,7.685837,0 45.07102,7.685666,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07102,7.685666,0 45.07103,7.685537,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07103,7.685537,0 45.067387,7.682393,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.067387,7.682393,0 45.044144,7.671557,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.044144,7.671557,0 45.06437,7.684248,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06437,7.684248,0 45.13732,7.765392,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.13732,7.765392,0 45.062756,7.695397,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.062756,7.695397,0 45.070618,7.686728,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.070618,7.686728,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.06826,7.683799,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06826,7.683799,0 45.067177,7.696448,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.067177,7.696448,0 45.068893,7.694667,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068893,7.694667,0 45.07001,7.693605,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07001,7.693605,0 45.07128,7.684979,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07128,7.684979,0 45.089684,7.70891,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.089684,7.70891,0 45.08981,7.714847,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.08981,7.714847,0 45.06537,7.671428,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06537,7.671428,0 45.07312,7.681213,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07312,7.681213,0 45.081127,7.730437,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.081127,7.730437,0 45.06245,7.69471,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06245,7.69471,0 45.070168,7.665166,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.070168,7.665166,0 45.035454,7.659868,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.035454,7.659868,0 45.035175,7.659836,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.035175,7.659836,0 45.035362,7.659847,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.035362,7.659847,0 45.035564,7.659444,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.035564,7.659444,0 45.07546,7.518939,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07546,7.518939,0 45.035343,7.659814,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.035343,7.659814,0 45.059196,7.677657,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.059196,7.677657,0 45.065125,7.6699,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.065125,7.6699,0 45.06503,7.670028,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06503,7.670028,0 45.07295,7.681678,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07295,7.681678,0 45.019623,7.621797,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.019623,7.621797,0 45.057068,7.711013,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.057068,7.711013,0 45.06954,7.682061,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06954,7.682061,0 45.076057,7.683241,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.076057,7.683241,0 45.073082,7.681363,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.073082,7.681363,0 45.05637,7.651663,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.05637,7.651663,0 45.0602,7.656661,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.0602,7.656661,0 45.089684,7.70891,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.089684,7.70891,0 45.069103,7.693102,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.069103,7.693102,0 45.062634,7.698733,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.062634,7.698733,0 45.06266,7.698701,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06266,7.698701,0 45.089684,7.70891,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.089684,7.70891,0 45.08829,7.708051,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.08829,7.708051,0 45.063625,7.674836,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.063625,7.674836,0 45.068054,7.682473,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.068054,7.682473,0 45.040695,7.670515,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.040695,7.670515,0 45.067528,7.677226,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.067528,7.677226,0 45.06746,7.677061,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06746,7.677061,0 45.07183,7.702703,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07183,7.702703,0 45.072315,7.691266,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.072315,7.691266,0 45.06496,7.684102,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06496,7.684102,0 45.03156,7.731285,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.03156,7.731285,0 45.07352,7.66571,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07352,7.66571,0 45.076904,7.66949,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.076904,7.66949,0 45.06496,7.684102,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06496,7.684102,0 45.056602,7.6808,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.056602,7.6808,0 45.067528,7.677226,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.067528,7.677226,0 45.00207,7.682393,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.00207,7.682393,0 45.002083,7.6822,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.002083,7.6822,0 45.034092,7.716572,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.034092,7.716572,0 45.064457,7.695944,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.064457,7.695944,0 45.06268,7.698701,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06268,7.698701,0 45.062653,7.69869,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.062653,7.69869,0 45.030727,7.722069,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.030727,7.722069,0 45.07276,7.678528,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.07276,7.678528,0 45.000717,7.686524,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.000717,7.686524,0 45.069378,7.665592,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.069378,7.665592,0 45.05157,7.677404,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.05157,7.677404,0 45.06851,7.50828,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06851,7.50828,0 45.06781,7.509192,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06781,7.509192,0 45.06837,7.507948,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06837,7.507948,0 45.06765,7.509139,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.06765,7.509139,0 45.0685,7.508184,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.0685,7.508184,0 45.070312,7.512304,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.070312,7.512304,0 45.073975,7.667732,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff0000ff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.073975,7.667732,0 45.043,7.651473,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff00ff00</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.043,7.651473,0 45.057163,7.689006,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffff0000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.057163,7.689006,0 45.034092,7.716572,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ffffffff</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.034092,7.716572,0 45.034092,7.716572,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Percorso senza titolo</name>
+<description>
+&lt;h1&gt;Entity references are hard to type!&lt;/h1&gt;
+</description>
+<styleUrl>#ff000000</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+45.034092,7.716572,0 45.058647,7.682445,0 </coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
